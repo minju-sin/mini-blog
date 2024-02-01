@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Wrapper = styled.div`
     width: calc(100% - 32px);
     padding: 16px;
-    flex-deirection: column;
+    flex-direction: column;
     align-items: flex-start;
     justify-content: center;
     border: 1px solid grey;
@@ -12,7 +12,7 @@ const Wrapper = styled.div`
     cursor: pointer;
     background-color : white;
     :hover {
-        backgroud: lightgrey;
+        background: lightgrey;
     }
 `;
 

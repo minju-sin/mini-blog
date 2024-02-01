@@ -9,7 +9,7 @@ const Wrapper = styled.div`
     align-items: flex-start;
     justify-content: center;
 
-    & > * {
+    & {
         :not(:last-child) {
             margin-bottom: 16px;
         }
